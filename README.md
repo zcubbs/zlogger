@@ -20,7 +20,7 @@ package main
 import (
 	"os"
 
-	"github.com/arun0009/go-logger/pkg/logger"
+	"github.com/zcubbs/zlogger/pkg/logger"
 	"github.com/sirupsen/logrus"
 )
 
@@ -48,7 +48,7 @@ package main
 import (
 	"os"
 
-	"github.com/arun0009/go-logger/pkg/logger"
+	"github.com/zcubbs/zlogger/pkg/logger"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )
